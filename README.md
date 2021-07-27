@@ -1,1 +1,1 @@
-TinDog Starting Files
+Responsive landing page for My Stores To Help (Teeshopper)
